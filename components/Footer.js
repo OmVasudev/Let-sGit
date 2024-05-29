@@ -130,7 +130,7 @@ function Footer() {
         <div className="mt-8 p-6 text-sm text-center text-white dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
           <a href="/" target="_blank" rel="noopener noreferrer">
-            Team Tech Elites
+            Radhe Radhe
           </a>
         </div>
       </div>
